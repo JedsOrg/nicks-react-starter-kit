@@ -1,6 +1,12 @@
 # Nick's React Starter Kit
 
-A starter kit for people learning React. Includes Babel, Webpack, ES2015, and React-Hot-Loader.
+A starter kit for people learning React. 
+
+## Packages:
+*Babel
+*Webpack
+*ES2015
+*React-Hot-Loader
 
 ## Usage:
 
