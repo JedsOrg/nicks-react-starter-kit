@@ -3,10 +3,10 @@
 A starter kit for people learning React. 
 
 ## Packages:
-*Babel
-*Webpack
-*ES2015
-*React-Hot-Loader
+* Babel
+* Webpack
+* ES2015
+* React-Hot-Loader
 
 ## Usage:
 
