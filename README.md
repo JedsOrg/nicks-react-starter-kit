@@ -3,6 +3,7 @@
 A starter kit for people learning React. 
 
 ## Packages:
+* React (and ReactDOM)
 * Babel
 * Webpack
 * ES2015
